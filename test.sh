@@ -2,8 +2,8 @@
 # Bu araç @keyiflerolsun tarafından | @KekikAkademi için yazılmıştır.
 
 #------------------#
-KULLANICI="xylra"
-SIFRE="ridak"
+KULLANICI="theron"
+SIFRE="reon"
 #------------------#
 
 #------------------#
